@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "SPIs",
+    "description": "SPIs GDG Chrome Extension Project",
+    "version": "1.0.0",
+    "icons": {"128": "SPI-logo.png"},
+    "browser_action": {
+    "default_icon": "SPI-icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
