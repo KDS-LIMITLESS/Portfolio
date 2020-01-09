@@ -2,7 +2,7 @@
 
             My portfolio is  basic browser extension with links to my social media pages. 
             
-                            ******* HOW TO USE ************
+  # HOW TO USE 
                           1. Download the zip file from github
                           2. unpack the zip file in you explora
                           3. in your chrome web browser, open the extensions page 
